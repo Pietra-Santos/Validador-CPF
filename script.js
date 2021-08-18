@@ -1,7 +1,7 @@
 console.log('JavaScript carregado');
 
 function validaCPF(cpf) {
-    return falseclaer;
+    return false;
 }
 
 function validacao() {
